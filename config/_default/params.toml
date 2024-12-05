@@ -1,0 +1,5 @@
+# config/_default/params.toml
+
+colorScheme = "Sapphire"
+homepage.layout = "profile"
+homepage.showRecent = true

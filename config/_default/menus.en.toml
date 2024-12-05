@@ -1,0 +1,17 @@
+
+[[main]]
+name = "About"
+pageRef = "about.md"
+weight = 10
+
+[[main]]
+name = "Blog"
+pageRef = "posts"
+weight = 20
+
+[[main]]
+identifier = "search"
+weight = 99
+[main.params]
+    action = "search"
+    icon = "search"
