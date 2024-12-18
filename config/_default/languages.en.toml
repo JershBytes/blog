@@ -10,7 +10,7 @@ bio = "amateur automation,Linux and wow nerd."
 links = [
 { email = "mailto:contact@rossjm.dev" },
 { github = "https://github.com/jershb" },
-{ bluesky = "https://bsky.app/profile/jershbytes.bsky.social" },
+{ bluesky = "https://bsky.app/profile/rossjm.net" },
 { linkedin = "https://www.linkedin.com/in/joshuamalcom/" },
 { steam= "https://steamcommunity.com/id/jershbytes" },
 ]
