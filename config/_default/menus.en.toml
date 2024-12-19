@@ -10,6 +10,10 @@ pageRef = "posts"
 weight = 20
 
 [[main]]
+name = "Links"
+ref = "https://links.rossjm.net/@Jersh"
+
+[[main]]
 identifier = "search"
 weight = 99
 [main.params]
