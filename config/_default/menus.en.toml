@@ -11,11 +11,12 @@ weight = 20
 
 [[main]]
 name = "Links"
-ref = "https://links.rossjm.net/@Jersh"
+url = "https://links.rossjm.net/@Jersh"
+weight = 30
 
 [[main]]
 identifier = "search"
 weight = 99
-[main.params]
+    [main.params]
     action = "search"
     icon = "search"
